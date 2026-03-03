@@ -137,7 +137,7 @@
 }
 
 /*NO TAIL GREEN TEXT*/
-#workskin .greply1 {
+#workskin .gout1 {
   float: right;
   color: #FFFFFF;
   margin: 0 0 0.5em;
@@ -150,7 +150,7 @@
 }
 
 /*YES TAIL GREEN TEXT*/
-#workskin .greply2 {
+#workskin .gout2 {
   float: right;
   color: #FFFFFF;
   margin: 0 0 0.5em;
@@ -162,7 +162,7 @@
   position: relative;
 }
 
-#workskin .greply2::after {
+#workskin .gout2::after {
   content: "";
   position: absolute;
   right: -0.5em;
