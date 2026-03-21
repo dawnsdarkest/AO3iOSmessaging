@@ -260,15 +260,6 @@
   border-radius: 25px 25px 0px 0px;
 }
 
-#workskin .dark-chat-box::-webkit-scrollbar {
-  display: none;
-}
-
-#workskin .dark-chat-box {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
 #workskin .dark-footer .dark-footer-message {
   float: right;
   margin-right: 2px;
