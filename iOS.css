@@ -474,9 +474,24 @@
 }
 
 /*links and tags*/
-#workskin .links {
+#workskin .tag {
   color: #027EB5;
   font-weight: bold;
+}
+
+#workskin .tag:hover {
+  color: #01587e;
+  font-weight: bold;
+}
+
+#workskin .link {
+  color: #027EB5;
+  text-decoration: underline;
+}
+
+#workskin .link:hover {
+  color: #01587e;
+  text-decoration: underline;
 }
 
 /*SPACE FOR SENDER NAME ON TOP OF MSG IN GROUPS*/
