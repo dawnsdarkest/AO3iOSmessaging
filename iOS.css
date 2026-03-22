@@ -473,7 +473,7 @@
   display: none;
 }
 
-/*links and tags*/
+/*links and tags - received*/
 #workskin .tag {
   color: #027EB5;
   font-weight: bold;
@@ -493,6 +493,28 @@
   color: #01587e;
   text-decoration: underline;
 }
+
+/*links and tags - sent*/
+#workskin .tago {
+  color: #FFF;
+  font-weight: bold;
+}
+
+#workskin .tago:hover {
+  color: #e5e5e5;
+  font-weight: bold;
+}
+
+#workskin .linko {
+  color: #FFF;
+  text-decoration: underline;
+}
+
+#workskin .linko:hover {
+  color: #e5e5e5;
+  text-decoration: underline;
+}
+
 
 /*SPACE FOR SENDER NAME ON TOP OF MSG IN GROUPS*/
 #workskin .group {
